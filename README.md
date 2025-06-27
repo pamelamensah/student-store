@@ -98,16 +98,8 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
   - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS**: To ease the grading process, please use the deployed version of your website in your walkthrough with the URL visible. 
 
 
-
 ### Walkthrough Video
-
-`<div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/899c40af2f2d47c2adedd2d9f27e0d8d?sid=58be5725-d2f1-4bdb-a72d-5f12dc9c5585" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
-`<div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/944e43555b994e1ea2cf6d903ac8cf31?sid=c54f255e-bd53-43aa-8816-301f9ff38ff9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
-`<div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/2377dbc723444ea7b5ccdaa936ff5c9c?sid=7f45594b-7374-41a7-8fd3-02f03b567738" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
-`<div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/1176b476585247cebd0c41aefede3415?sid=58348646-5532-4b76-ae28-1160d3689c06" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
-
-
-
-
-
-
+-[Video 1](https://www.loom.com/embed/899c40af2f2d47c2adedd2d9f27e0d8d?sid=58be5725-d2f1-4bdb-a72d-5f12dc9c5585)
+-[Video 2](https://www.loom.com/embed/944e43555b994e1ea2cf6d903ac8cf31?sid=c54f255e-bd53-43aa-8816-301f9ff38ff9)
+-[Video 3](https://www.loom.com/embed/2377dbc723444ea7b5ccdaa936ff5c9c?sid=7f45594b-7374-41a7-8fd3-02f03b567738)
+-[Video 4](https://www.loom.com/embed/1176b476585247cebd0c41aefede3415?sid=58348646-5532-4b76-ae28-1160d3689c06)

@@ -80,7 +80,7 @@ class OrderItem{
             return sum + parseFloat(item.price) * item.quantity;
         }, 0);
 
-        // Step 4: Update the order total
+
         await prisma.order.update({
             where: { id: orderItem.orderId },
             data: { total: newTotal.toFixed(2) }
