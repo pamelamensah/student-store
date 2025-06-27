@@ -15,6 +15,13 @@ function Sidebar({ cart, isOpen, products, userInfo, setUserInfo, toggleSidebar,
               <img src={logo} alt="codepath logo" />
             </Link>
         </div>
+        
+        <div className="past-orders-link">
+            <Link to="/orders" style={{ color: "white", marginTop: "1rem", display: "block" }}>
+                🧾 View Past Orders
+            </Link >
+        </div>
+
 
         <span className={`toggle-button button ${isOpen ? "open" : "closed"}`} onClick={toggleSidebar}>
           <i className="material-icons md-48">arrow_forward</i>

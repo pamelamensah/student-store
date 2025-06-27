@@ -12,3 +12,38 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+//---Models---- //
+
+model Product{
+  id            Int         @id @default(autoincrement())
+  name          String      @unique
+  description   String?
+  price         Decimal     @db.Decimal(10,2)
+  image_url     String?
+  category      String
+  created_at    DateTime    @default(now())
+  updated_at    DateTime    @updatedAt
+  orderItems    OrderItem[]
+}
+
+model Order{
+  id             Int          @id @default(autoincrement())
+  customer       String    
+  email          String       @default("unknown@example.com")
+  total_price    Decimal      @default(0.0)
+  status         String
+  created_at     DateTime     @default(now())
+  updated_at     DateTime     @updatedAt
+  orderItems     OrderItem[]  
+}
+
+model OrderItem{
+  id             Int      @id @default(autoincrement())
+  orderId        Int
+  productId      Int
+  quantity       Int
+  price          Decimal  @db.Decimal(10,2)
+  order          Order    @relation(fields:[orderId], references:[id], onDelete: Cascade)
+  product        Product  @relation(fields:[productId], references:[id])
+}

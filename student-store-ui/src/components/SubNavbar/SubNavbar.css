@@ -40,7 +40,7 @@
 .SubNavbar .content .search-bar i {
   height: 40px;
   width: 40px;
-  background: var(--bright-green);
+  background: var(--bright-pink);
   color: white;
   fill: white;
   display: flex;
@@ -76,7 +76,7 @@
 
 .SubNavbar .content .cart {
   color: var(--pure-white);
-  background: var(--bright-green);
+  background: var(--bright-pink);
   width: 170px;
   height: 40px;
   display: flex;
@@ -114,7 +114,7 @@
   transform: scale(0.01);
 }
 .SubNavbar .category-menu li.is-active button {
-  border-bottom: solid 2px var(--bright-green);
+  border-bottom: solid 2px var(--bright-pink);
 }
 .SubNavbar .category-menu li button {
   cursor: pointer;

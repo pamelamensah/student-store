@@ -4,7 +4,7 @@
 }
 
 .CheckoutSuccess > h3 {
-  color: white;
+  color: black;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,10 +14,11 @@
   margin-left: 10px;
 }
 .CheckoutSuccess p {
-  color: white;
+  text-align: center;
+  color: black;
 }
 .CheckoutSuccess .card {
-  color: white;
+  color: black;
   display: flex;
   flex-direction: column;
 }
@@ -36,7 +37,7 @@
   padding-left: 20px;
 }
 .CheckoutSuccess .purchase li {
-  color: white;
+  color: black;
 }
 .CheckoutSuccess button {
   margin: 10px;

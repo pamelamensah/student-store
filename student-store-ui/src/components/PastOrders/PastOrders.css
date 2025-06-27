@@ -1,0 +1,43 @@
+.PastOrders {
+  padding: 1rem;
+}
+
+.PastOrders ul {
+  list-style: none;
+  padding: 0;
+}
+
+.PastOrders li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ccc;
+}
+.filter-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filter-container input {
+  padding: 8px;
+  width: 250px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.filter-container button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #1f4b99;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.filter-container button:hover {
+  background-color: #163b7a;
+}
+
+.error {
+  color: red;
+  margin-bottom: 12px;
+}

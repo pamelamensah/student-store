@@ -45,7 +45,7 @@
 .ShoppingCart .header-row {
   display: flex;
   height: 50px;
-  background: var(--dark-blue);
+  background: var(--bright-pink);
   margin-bottom: 15px;
 }
 .ShoppingCart .header-row span {

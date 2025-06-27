@@ -23,7 +23,7 @@ export default function PaymentInfo({ userInfo, setUserInfo, handleOnCheckout, i
       </div>
 
       <div className="input-field">
-        <label className="label">Dorm Room Number</label>
+        <label className="label">Email Address</label>
         <div className="control">
           <input
             className="input"

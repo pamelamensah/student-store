@@ -1,77 +1,88 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "College Hoodie",
-        "category": "Apparel",
-        "image_url": "https://tinyurl.com/college-hoodie",
-        "description": "Comfortable and stylish hoodie with the college logo.",
-        "price": 29.99
-      },
-      {
-        "id": 2,
-        "name": "Algebra Textbook",
-        "category": "Books",
-        "image_url": "https://tinyurl.com/algebra-book",
-        "description": "Comprehensive textbook covering all aspects of algebra.",
-        "price": 59.99
-      },
-      {
-        "id": 3,
-        "name": "College Notebook",
-        "category": "Supplies",
-        "image_url": "https://tinyurl.com/college-notebook",
-        "description": "Durable notebook with college branding, perfect for note-taking.",
-        "price": 6.99
-      },
-      {
-        "id": 4,
-        "name": "College Pen",
-        "category": "Supplies",
-        "image_url": "https://tinyurl.com/college-pen",
-        "description": "Smooth-writing pen with college logo, ideal for writing and exams.",
-        "price": 1.99
-      },
-      {
-        "id": 5,
-        "name": "College Mug",
-        "category": "Accessories",
-        "image_url": "https://tinyurl.com/college-mug",
-        "description": "Ceramic mug with college emblem, perfect for coffee or tea.",
-        "price": 9.99
-      },
-      {
-        "id": 6,
-        "name": "College Beanie",
-        "category": "Apparel",
-        "image_url": "https://tinyurl.com/college-beanie",
-        "description": "Warm and cozy beanie with the college logo, perfect for cold weather.",
-        "price": 14.99
-      },
-      {
-        "id": 7,
-        "name": "Energy Drink",
-        "category": "Snacks",
-        "image_url": "https://tinyurl.com/cp-energy-drink",
-        "description": "Refreshing energy drink to keep you focused during long study sessions.",
-        "price": 2.99
-      },
-      {
-        "id": 8,
-        "name": "Chocolate Bar",
-        "category": "Snacks",
-        "image_url": "https://tinyurl.com/cp-chocolate-bar",
-        "description": "Delicious chocolate bar for a quick snack between classes.",
-        "price": 1.49
-      },
-      {
-        "id": 9,
-        "name": "Granola Bar",
-        "category": "Snacks",
-        "image_url": "https://tinyurl.com/cp-granola-bar",
-        "description": "Healthy granola bar, perfect for a quick energy boost.",
-        "price": 1.29
-      }
-    ]
-  }
-  
+  "products": [
+    {
+      "name": "Glass Milk Carton",
+      "description": "Minimalist glass milk carton for aesthetic drinks.",
+      "price": 12.99,
+      "image_url": "https://i.pinimg.com/736x/6b/df/ee/6bdfeec5a9404f2c66e8ad1986015188.jpg",
+      "category": "Aesthetic"
+    },
+    {
+      "name": "Sunset Canvas Tote",
+      "description": "Spacious tote bag with sunset print for everyday errands.",
+      "price": 18.5,
+      "image_url": "https://i.pinimg.com/736x/e4/70/24/e47024ead428aca340dcaacb7d1cd9f0.jpg",
+      "category": "Fashion"
+    },
+    {
+      "name": "LED Cloud Lamp",
+      "description": "Soft glowing cloud-shaped lamp perfect for mood lighting.",
+      "price": 29.99,
+      "image_url": "https://i.pinimg.com/736x/2a/f9/fc/2af9fc7695352dd87d8d061839532223.jpg",
+      "category": "Decor"
+    },
+    {
+      "name": "Minimal Desk Clock",
+      "description": "Sleek and silent desk clock with aluminum finish.",
+      "price": 15.75,
+      "image_url": "https://i.pinimg.com/736x/35/1c/5e/351c5ece889271d8fa0d8abb161801d9.jpg",
+      "category": "Office"
+    },
+    {
+      "name": "Cherry Blossom Mug",
+      "description": "Delicate mug with floral print for tea or coffee.",
+      "price": 11.25,
+      "image_url": "https://i.pinimg.com/736x/9f/69/9b/9f699b545c73a790c5ee7913c2e9c649.jpg",
+      "category": "Kitchen"
+    },
+    {
+      "name": "Vintage Typewriter Keyboard",
+      "description": "Bluetooth mechanical keyboard with retro design.",
+      "price": 69.0,
+      "image_url": "https://i.pinimg.com/736x/76/f4/95/76f4955193ac8c74631fde9fbf116bc8.jpg",
+      "category": "Tech"
+    },
+    {
+      "name": "Crystal Bookends",
+      "description": "Decorative quartz crystal bookends for bookshelf organization.",
+      "price": 24.99,
+      "image_url": "https://i.pinimg.com/736x/65/98/51/659851bd6c7a915dec30d1ec66dda048.jpg",
+      "category": "Decor"
+    },
+    {
+      "name": "Neon Sign - 'Smiley Face'",
+      "description": "LED neon wall sign to inspire your workspace.",
+      "price": 21.5,
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_30b0b635-fc8c-4ff7-9602-857cf4b3ad49?wid=1200&hei=1200&qlt=80&fmt=webp",
+      "category": "Aesthetic"
+    },
+    {
+      "name": "Marble Phone Stand",
+      "description": "Chic and durable phone stand made from faux marble.",
+      "price": 8.99,
+      "image_url": "https://i.pinimg.com/736x/bf/89/9a/bf899abacc687b56cee714bb5bd5d472.jpg",
+      "category": "Tech"
+    },
+    {
+      "name": "Faux Plant Duo",
+      "description": "Low-maintenance decorative plants for your shelf or desk.",
+      "price": 14.5,
+      "image_url": "https://i.pinimg.com/736x/58/50/c4/5850c4aea9610ee887194949579c61ad.jpg",
+      "category": "Decor"
+    },
+    {
+      "name": "Mini Projector",
+      "description": "Compact projector for presentations and video conferencing.",
+      "price": 49.99,
+      "image_url": "https://i.pinimg.com/736x/f5/4a/78/f54a783e3d953e2837d03a26b832857c.jpg",
+      "category": "Tech"
+    },
+    {
+      "name": "Kawaii Desk Organizer",
+      "description": "Cute pastel organizer for your aesthetic workspace.",
+      "price": 12.99,
+      "image_url": "https://i.pinimg.com/736x/83/dd/69/83dd69638f3613c5c032b27481d8aad7.jpg",
+      "category": "Stationery"
+    }
+  ]
+}

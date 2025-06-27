@@ -3,7 +3,8 @@ import "./SubNavbar.css"
 function SubNavbar({ activeCategory, setActiveCategory, searchInputValue, handleOnSearchInputChange }) {
 
 
-  const categories = ["All Categories", "Accessories", "Apparel", "Books", "Snacks", "Supplies"];
+  const categories = ["All Categories", "Aesthetic", "Decor", "Office", "Kitchen", "Tech"]
+
 
   return (
     <nav className="SubNavbar">
